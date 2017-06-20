@@ -1,0 +1,25 @@
+.main_header{
+    width: 100%;
+    height: 100px;
+    background: grey;
+}
+
+.box_left{
+    width: 100px;
+    height: 800px;
+    background: lightgray;
+    float: left;
+}
+
+.box_right{
+    width: 100px;
+    height: 800px;
+    background: lightgray;
+    float: right;
+}
+
+.footer{
+    height: 100px;
+    background: black;
+    margin-top: 700px;
+}
